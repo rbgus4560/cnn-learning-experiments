@@ -1,0 +1,9 @@
+﻿,precision,recall,f1-score,support
+almirah,1.0,1.0,1.0,300.0
+chair,1.0,1.0,1.0,300.0
+fridge,1.0,1.0,1.0,300.0
+table,1.0,1.0,1.0,300.0
+tv,1.0,1.0,1.0,300.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,1500.0
+weighted avg,1.0,1.0,1.0,1500.0

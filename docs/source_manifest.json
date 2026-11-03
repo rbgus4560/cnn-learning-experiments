@@ -1,0 +1,112 @@
+[
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\01_FashionMNIST_Keras_Adam.ipynb",
+    "destination": "notebooks/comparison/01_FashionMNIST_Keras_Adam.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\02_FashionMNIST_Keras_SGD.ipynb",
+    "destination": "notebooks/comparison/02_FashionMNIST_Keras_SGD.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\03_FashionMNIST_PyTorch_Adam.ipynb",
+    "destination": "notebooks/comparison/03_FashionMNIST_PyTorch_Adam.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\04_FashionMNIST_PyTorch_SGD.ipynb",
+    "destination": "notebooks/comparison/04_FashionMNIST_PyTorch_SGD.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\05_Furniture_Keras_Adam_Baseline.ipynb",
+    "destination": "notebooks/comparison/05_Furniture_Keras_Adam_Baseline.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\06_Furniture_Keras_Adam_Dropout.ipynb",
+    "destination": "notebooks/comparison/06_Furniture_Keras_Adam_Dropout.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\07_Furniture_Keras_Adam_SpatialDropout.ipynb",
+    "destination": "notebooks/comparison/07_Furniture_Keras_Adam_SpatialDropout.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\08_Furniture_Keras_Adam_FC64.ipynb",
+    "destination": "notebooks/comparison/08_Furniture_Keras_Adam_FC64.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\09_Furniture_Keras_SGD_Baseline.ipynb",
+    "destination": "notebooks/comparison/09_Furniture_Keras_SGD_Baseline.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\10_Furniture_Keras_SGD_Dropout.ipynb",
+    "destination": "notebooks/comparison/10_Furniture_Keras_SGD_Dropout.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\11_Furniture_Keras_SGD_SpatialDropout.ipynb",
+    "destination": "notebooks/comparison/11_Furniture_Keras_SGD_SpatialDropout.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\12_Furniture_Keras_SGD_FC64.ipynb",
+    "destination": "notebooks/comparison/12_Furniture_Keras_SGD_FC64.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\13_Furniture_PyTorch_Adam_Baseline.ipynb",
+    "destination": "notebooks/comparison/13_Furniture_PyTorch_Adam_Baseline.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\14_Furniture_PyTorch_Adam_Dropout.ipynb",
+    "destination": "notebooks/comparison/14_Furniture_PyTorch_Adam_Dropout.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\15_Furniture_PyTorch_Adam_SpatialDropout.ipynb",
+    "destination": "notebooks/comparison/15_Furniture_PyTorch_Adam_SpatialDropout.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\16_Furniture_PyTorch_Adam_FC64.ipynb",
+    "destination": "notebooks/comparison/16_Furniture_PyTorch_Adam_FC64.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\17_Furniture_PyTorch_SGD_Baseline.ipynb",
+    "destination": "notebooks/comparison/17_Furniture_PyTorch_SGD_Baseline.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\18_Furniture_PyTorch_SGD_Dropout.ipynb",
+    "destination": "notebooks/comparison/18_Furniture_PyTorch_SGD_Dropout.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\19_Furniture_PyTorch_SGD_SpatialDropout.ipynb",
+    "destination": "notebooks/comparison/19_Furniture_PyTorch_SGD_SpatialDropout.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\20_Furniture_PyTorch_SGD_FC64.ipynb",
+    "destination": "notebooks/comparison/20_Furniture_PyTorch_SGD_FC64.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\Furniture_CNN_원인분석_3회실험.ipynb",
+    "destination": "notebooks/analysis/furniture_cause_analysis.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  },
+  {
+    "source": "Colab Notebooks-20260921T053934Z-1-001\\Colab Notebooks\\Results_20개_통합분석.ipynb",
+    "destination": "notebooks/analysis/compare_20_experiments.ipynb",
+    "change": "Code preserved; outputs, execution counts and notebook UI metadata removed"
+  }
+]

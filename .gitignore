@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+*.keras
+*.h5
+*.pt
+*.pth
+*.zip
+dataset/
+data/
+experiment_outputs/

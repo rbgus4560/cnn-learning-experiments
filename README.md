@@ -42,9 +42,9 @@ CNN의 구성과 학습·평가 과정을 이해하기 위해 Keras와 PyTorch�
 
 ## 학습 결과 예시
 
-![학습 정확도 곡선](results/comparison/FashionMNIST_Keras_Adam/accuracy_curve.png)
+![학습 정확도 곡선](assets/FashionMNIST_Keras_Adam__accuracy_curve.png)
 
-![가구 분류 혼동 행렬](results/comparison/Furniture_Keras_Adam_FC64/final_confusion_matrix.png)
+![가구 분류 혼동 행렬](assets/Furniture_Keras_Adam_FC64__final_confusion_matrix.png)
 
 그래프·CSV는 기존 실행에서 저장한 기록입니다. 저장소 정리 중 학습을 다시 실행하지 않았습니다. 수치만으로 특정 프레임워크나 옵티마이저가 항상 우수하다고 결론 내리지 않습니다.
 
@@ -62,8 +62,9 @@ Google Colab에서 `notebooks/comparison`의 노트북 하나를 열고 셀을 �
 ```text
 notebooks/comparison/  # 발표용 비교 실험 20개
 notebooks/analysis/    # 통합 분석 및 원인 분석
-results/comparison/   # 20개 실험의 CSV·그래프
-results/cause_analysis/ # 원인 분석 3개 결과
+results/comparison/   # 20개 실험의 평가 CSV
+results/cause_analysis/ # 원인 분석 3개 CSV
+assets/               # 학습 곡선·혼동 행렬 89개
 docs/                 # 실행 환경·실험 해석·자료 출처
 ```
 
